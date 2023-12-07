@@ -1,0 +1,16 @@
+C:\Users\jhonf\source\repos\Hanoi\Hanoi\bin\Debug\net6.0-windows\Hanoi.exe
+C:\Users\jhonf\source\repos\Hanoi\Hanoi\bin\Debug\net6.0-windows\Hanoi.deps.json
+C:\Users\jhonf\source\repos\Hanoi\Hanoi\bin\Debug\net6.0-windows\Hanoi.runtimeconfig.json
+C:\Users\jhonf\source\repos\Hanoi\Hanoi\bin\Debug\net6.0-windows\Hanoi.dll
+C:\Users\jhonf\source\repos\Hanoi\Hanoi\bin\Debug\net6.0-windows\Hanoi.pdb
+C:\Users\jhonf\source\repos\Hanoi\Hanoi\obj\Debug\net6.0-windows\Hanoi.Hanoi.resources
+C:\Users\jhonf\source\repos\Hanoi\Hanoi\obj\Debug\net6.0-windows\Hanoi.csproj.GenerateResource.cache
+C:\Users\jhonf\source\repos\Hanoi\Hanoi\obj\Debug\net6.0-windows\Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhonf\source\repos\Hanoi\Hanoi\obj\Debug\net6.0-windows\Hanoi.AssemblyInfoInputs.cache
+C:\Users\jhonf\source\repos\Hanoi\Hanoi\obj\Debug\net6.0-windows\Hanoi.AssemblyInfo.cs
+C:\Users\jhonf\source\repos\Hanoi\Hanoi\obj\Debug\net6.0-windows\Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\jhonf\source\repos\Hanoi\Hanoi\obj\Debug\net6.0-windows\Hanoi.dll
+C:\Users\jhonf\source\repos\Hanoi\Hanoi\obj\Debug\net6.0-windows\refint\Hanoi.dll
+C:\Users\jhonf\source\repos\Hanoi\Hanoi\obj\Debug\net6.0-windows\Hanoi.pdb
+C:\Users\jhonf\source\repos\Hanoi\Hanoi\obj\Debug\net6.0-windows\Hanoi.genruntimeconfig.cache
+C:\Users\jhonf\source\repos\Hanoi\Hanoi\obj\Debug\net6.0-windows\ref\Hanoi.dll
